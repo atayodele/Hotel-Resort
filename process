@@ -1,0 +1,8 @@
+mkdir Hotel Restort
+npx create-react-app resort
+cd resort
+npm install react-icons
+npm install react-router-dom --save
+
+code . ==> open it on vs code
+npm run start
