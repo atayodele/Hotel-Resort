@@ -6,3 +6,18 @@ npm install react-router-dom --save
 
 code . ==> open it on vs code
 npm run start
+
+rafc shortcut 
+FOR ROUTER ===> https://reacttraining.com/react-router/web/guides/quick-start
+Goto index.js to paste this 
+		import { BrowserRouter as Router} from "react-router-dom";
+		
+		ReactDOM.render(
+			<Router>
+				<App />
+			</Router>,
+			document.getElementById('root'));
+
+
+npm install --save styled-components
+npm install contentful
